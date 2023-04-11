@@ -1,2 +1,4 @@
 Adding text to this file to stage it in GitHub
 testing out the text editor and file
+
+Testing out the new git commit message in VS Code
